@@ -9,7 +9,7 @@ Statická webová prezentace horské chalupy k pronájmu v **Loučné pod Klíno
 
 ## 🌐 Odkaz na web
 
-**[Zobrazit stránky Chaty Loučná pod Klínovcem](https://hubkalukas.github.io/Chata-Loucna-pod-Klinovcem/)**
+**[Zobrazit stránky Chaty Loučná pod Klínovcem](https://hubkalukas.github.io/chata/)**
 
 ---
 
